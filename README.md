@@ -51,5 +51,16 @@
 
 
 ### 기술 포스팅
+- [DELETE의 멱등성 보장 & DELETE의 id 검증 필요성(200, 400 status code)](https://choo.oopy.io/f96abab2-abcf-4d96-b62b-d2d0771fb2c2)
+- [Repository의 구현체를 숨겼을 때 얻을 수 있는 장점](https://choo.oopy.io/7623156f-17be-4af9-8714-cbb5722cc642)
+- [Dao 클래스에 Repository 어노테이션을 붙여도 될까](https://choo.oopy.io/68f227ca-14a9-4a0c-90c6-c6fe6a1b1184)
+- [오버엔지니어링과 Dao 레이어 분리](https://choo.oopy.io/2050df17-66e9-494f-8d2c-427bc92719dc)
+- [Web 계층의 DTO와 네이밍 컨벤션](https://choo.oopy.io/cc83ee33-e8cd-4910-9dfb-82880f7efcc7)
+- [ResponseBody, ResponseEntity, RestController 사용과 추상화](https://choo.oopy.io/14614551-ccbd-420d-a793-f5fe861ae738)
+- [Service에서 다른 Service 의존 vs Repository 의존](https://choo.oopy.io/5480a4b3-a522-411f-aafd-fdfbb50f204d)
+- [중첩 리소스에 대한 REST API 디자인 (with. 좋은 API란)](https://choo.oopy.io/c6380ae2-1e2b-47e0-93e5-967d10604105)
+- [애플리케이션 로직과 도메인(비즈니스) 로직을 구분해 얻는 장점](https://choo.oopy.io/015c42f8-36aa-4fa4-a6f5-0ddc3444f8a1)
+- [POJO에서 builder 패턴의 효용성](https://choo.oopy.io/a73631d0-86ac-4ec6-946a-8cad24eae906)
 
 ### 소프트스킬 포스팅
+- [논리적 오답과 비논리적 정답 (with 소통 잘하는 법)](https://choo.oopy.io/106b1a37-2b95-80f8-8844-c4736b20994a)
